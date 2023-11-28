@@ -63,4 +63,4 @@ jobs:
           app-name: 'CD123'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAD05A2BE4114EB4820313E35BD2BABC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5898B65695E49A292A0CDECAB0F9D24 }}
